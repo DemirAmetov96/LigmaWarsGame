@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3B7D67A9-4B75-4006-DD45-46A83D8EB859}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LigmaWars",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
